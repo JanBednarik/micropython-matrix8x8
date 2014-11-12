@@ -96,6 +96,8 @@ Wiring
 LED Matrix display is using I2C bus. You can connect and controll more displays
 with one I2C bus if you change I2C address of display.
 
+Example of wiring to I2C bus 1 on breadboard:
+
 ![](https://github.com/JanBednarik/micropython-matrix8x8/blob/master/docs/pyboard-matrix-wiring.jpg)
 
 More info & Help
