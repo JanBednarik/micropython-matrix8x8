@@ -104,3 +104,5 @@ More info & Help
 ----------------
 
 You can check more about the MicroPython project here: http://micropython.org
+
+Discussion about this driver: http://forum.micropython.org/viewtopic.php?f=5&t=405
